@@ -1,0 +1,103 @@
+.cs-search {
+    background-color: #F0F2F6;
+    border-radius: 6px;
+}
+
+.cs-search__input {
+    background-color: #F0F2F6;
+    color: #B5B8BE;
+}
+
+.cs-search__search-icon {
+    color: #B5B8BE;
+}
+
+.cs-avatar .cs-status {
+    box-sizing: border-box;
+    position: absolute;
+    right: -3px;
+    bottom: 65%;
+}
+
+.cs-conversation-header {
+    background-color: white;
+}
+
+.cs-conversation-header__content {
+    background-color: white;
+}
+
+.cs-conversation-header__content .cs-conversation-header__user-name {
+    box-sizing: border-box;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-size: 14px;
+    font-weight: 600;
+    color: #344054;
+    background-color: white;
+    vertical-align: middle;
+    margin-bottom: 0;
+    text-align: left;
+
+}
+
+.cs-message.cs-message--incoming.cs-message--first .cs-message__content {
+    background: #DFE2E8;
+
+}
+
+.cs-message--outgoing .cs-message__content {
+    background-color: #F36531 !important;
+    color: white !important;
+
+}
+
+.cs-message--incoming .cs-message__content {
+    background: #DFE2E8;
+
+}
+
+.cs-message-input__content-editor-wrapper {
+    background: white;
+}
+
+.cs-message-input__content-editor {
+    background: white;
+
+}
+
+.favorite {
+    text-align: left;
+}
+
+.cs-button--info {
+    color: #F36531;
+    background-color: transparent;
+}
+
+.cs-button--videocall {
+    color: #F36531;
+    background-color: transparent;
+}
+
+.cs-chat-container .cs-message-input {
+    border-bottom: solid 1px #d1dbe3;
+}
+
+.cs-message-input__content-editor-container {
+    text-align: left;
+}
+
+.cs-conversation__content{
+    text-align: left;
+}
+
+.text-left{
+    text-align: left;
+}
+
+.cs-conversation{
+    border-bottom: solid 1px #d1dbe3;
+
+}
